@@ -16,6 +16,7 @@
 		E462CAFA285DFA7F003F8363 /* GitQueryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E462CAF9285DFA7F003F8363 /* GitQueryTests.swift */; };
 		E462CB04285DFA7F003F8363 /* GitQueryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E462CB03285DFA7F003F8363 /* GitQueryUITests.swift */; };
 		E462CB06285DFA7F003F8363 /* GitQueryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E462CB05285DFA7F003F8363 /* GitQueryUITestsLaunchTests.swift */; };
+		E462CB13285E19E1003F8363 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E462CB12285E19E1003F8363 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E462CAFF285DFA7F003F8363 /* GitQueryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitQueryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E462CB03285DFA7F003F8363 /* GitQueryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitQueryUITests.swift; sourceTree = "<group>"; };
 		E462CB05285DFA7F003F8363 /* GitQueryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitQueryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E462CB12285E19E1003F8363 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				E462CAE2285DFA7C003F8363 /* AppDelegate.swift */,
 				E462CAE4285DFA7C003F8363 /* SceneDelegate.swift */,
 				E462CAE6285DFA7C003F8363 /* ViewController.swift */,
+				E462CB12285E19E1003F8363 /* ViewController2.swift */,
 				E462CAE8285DFA7C003F8363 /* Main.storyboard */,
 				E462CAEB285DFA7E003F8363 /* Assets.xcassets */,
 				E462CAED285DFA7E003F8363 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E462CAE7285DFA7C003F8363 /* ViewController.swift in Sources */,
+				E462CB13285E19E1003F8363 /* ViewController2.swift in Sources */,
 				E462CAE3285DFA7C003F8363 /* AppDelegate.swift in Sources */,
 				E462CAE5285DFA7C003F8363 /* SceneDelegate.swift in Sources */,
 			);
