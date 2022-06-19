@@ -22,7 +22,7 @@ print("Comit changes")
     func applyingStash() {}
 
     func stashChages() {}
-
+    func cherryPick() {}
 
 // m1
     // m2
