@@ -18,6 +18,10 @@ print("Comit changes")
         // commit 1
     }
     
+    func branchThirstyCreated() {
+        print("Thristy branch created")
+    }
+    
 
     /*
     // MARK: - Navigation
