@@ -31,7 +31,7 @@ print("Comit changes")
         print("Thristy branch created")
     }
     
-
+    func thirstyChanges() {}
 
     /*
     // MARK: - Navigation
