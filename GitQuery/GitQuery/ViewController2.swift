@@ -13,7 +13,7 @@ class ViewController2: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("Commit changes")
         // Do any additional setup after loading the view.
     }
     
