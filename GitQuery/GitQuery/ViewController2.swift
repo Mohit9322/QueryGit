@@ -18,7 +18,7 @@ print("Comit changes")
         // commit 1
     }
     
-
+// m1
     func masterFunction() {}
 
     func branchThirstyCreated() {
